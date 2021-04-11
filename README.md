@@ -1,4 +1,4 @@
-# syncsqftomysql
+# sync sqflite to mysql
 
 A new Flutter project.
 
